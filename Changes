@@ -1,6 +1,5 @@
 Revision history for Perl extension Mail::Query.
 
-0.01  Thu Oct  4 21:30:55 2001
-	- original version; created by h2xs 1.1.1.4 with options
-		-XA -n Mail::Query
+0.01  Mon Oct 22 18:53:18 CDT 2001
 
+   First version on CPAN

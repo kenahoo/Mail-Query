@@ -2,4 +2,5 @@ Changes
 MANIFEST
 Makefile.PL
 Query.pm
+README
 test.pl
