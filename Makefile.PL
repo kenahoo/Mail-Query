@@ -4,5 +4,8 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     'NAME'		=> 'Mail::Query',
     'VERSION_FROM'	=> 'Query.pm', # finds $VERSION
-    'PREREQ_PM'		=> {}, # e.g., Module::Name => 1.1
+    'PREREQ_PM'		=> {
+			    Mail::Audit => 0,
+			    Parse::RecDescent => 0,
+			   },
 );
